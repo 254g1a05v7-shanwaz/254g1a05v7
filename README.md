@@ -1,2 +1,2 @@
-# 254g1a05v7_experiment-1
+# 254g1a05v7- DBMS LAB
 DBMS experiment
