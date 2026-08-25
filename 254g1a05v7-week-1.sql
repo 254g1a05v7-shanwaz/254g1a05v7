@@ -1,4 +1,4 @@
---1. Create all tables without constraints
+--1. Create all tables without constraint
 CREATE TABLE STUDENT (
     Name VARCHAR(50),
     Student_number INT,
